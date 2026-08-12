@@ -55,3 +55,18 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Node / React (week 3)
+node_modules/
+dist/
+.vite/
+
+# IDE
+.vs/
+.idea/
+*.user
+
+# Secrets — never in an IAM repo
+appsettings.*.Local.json
+*.pfx
+*.pem

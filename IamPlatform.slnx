@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IamPlatform.Domain/IamPlatform.Domain.csproj" />
+    <Project Path="src/IamPlatform.Infrastructure/IamPlatform.Infrastructure.csproj" />
+    <Project Path="src/IamPlatform.ResourceApi/IamPlatform.ResourceApi.csproj" />
+    <Project Path="src/IamPlatform.Server/IamPlatform.Server.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/IamPlatform.Tests/IamPlatform.Tests.csproj" />
+  </Folder>
+</Solution>
